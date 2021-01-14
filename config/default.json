@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://dev:dev69@cluster0.nalc5.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://dev:dev69@cluster0.nalc5.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "llfeellikeGodzillaBetterhitthedecklikethecarddealerMywholesquad"
 }
