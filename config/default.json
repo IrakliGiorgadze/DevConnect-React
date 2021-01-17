@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://dev:dev69@cluster0.nalc5.mongodb.net/<dbname>?retryWrites=true&w=majority",
-    "jwtSecret": "llfeellikeGodzillaBetterhitthedecklikethecarddealerMywholesquad"
+    "jwtSecret": "llfeellikeGodzillaBetterhitthedecklikethecarddealerMywholesquad",
+    "githubClientId": "6a35187ef8dc74907415",
+    "githubSecret": "eae2ed7fb308ee4d75a03fbe0735660e177008d8"
 }
